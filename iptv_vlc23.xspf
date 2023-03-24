@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8</location>
+			<title>Cinevault 80s (540p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
+			<title>Pluto TV 80s Rewind (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
+			<title>Pluto TV 90s Throwback (684p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
+			<title>Pluto TV 70s Cinema (684p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8</location>
+			<title>24 Hour Free Movies (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5b4e94282d4ec87bdcbb87cd&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=103&amp;terminate=false&amp;userId=</location>
+			<title>Pluto Western</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&amp;appVersion=unknown&amp;deviceDNT=0&amp;deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&amp;deviceLat=0&amp;deviceLon=0&amp;deviceMake=samsung&amp;deviceModel=samsung&amp;deviceType=samsung-tvplus&amp;deviceUA=samsung/SM-T720/10&amp;deviceVersion=unknown&amp;embedPartner=samsung-tvplus&amp;profileFloor=&amp;profileLimit=&amp;samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&amp;samsung_app_name=Mobile+TV+Plus&amp;us_privacy=1YNY</location>
+			<title>Paramount Movie Channel (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5b4fc274694c027be6ed3eea&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=151&amp;terminate=false&amp;userId=</location>
+			<title>Pluto TV Sci-Fi (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8</location>
+			<title>Rakuten TV Huippuelokuvat</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8</location>
+			<title>Rakuten TV Toiminta</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8</location>
+			<title>STIRR FilmRise Free Movies (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8</location>
+			<title>STIRR Movies (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8</location>
+			<title>STIRR Westerns (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5c665db3e6c01b72c4977bc2&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=109&amp;terminate=false&amp;userId=</location>
+			<title>Pluto TV Cult Films (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8</location>
+			<title>MovieSphere (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8</location>
+			<title>FilmRise Sci-Fi Finland</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
+			<title>Pluto TV VH1 Classics (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8</location>
+			<title>Vevo 80s (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8</location>
+			<title>Retro Music TV (360p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
+			<title>Pluto TV Star Trek (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8</location>
+			<title>Jasmin TV (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+	</extension>
+</playlist>
