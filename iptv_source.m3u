@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,iptv_vlc23.xspf
+#EXTINF:0,iptv_poiminnat_2023
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/MrLassi/misctv/main/iptv_vlc23.m3u
 #EXTINF:0,movies.m3u
